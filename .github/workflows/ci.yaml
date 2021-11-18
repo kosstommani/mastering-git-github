@@ -7,7 +7,7 @@ on:
 jobs:
   build:
 
-    runs-on: window10
+    runs-on: ubuntu-latest
 
     strategy:
       matrix:
