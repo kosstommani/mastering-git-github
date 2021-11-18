@@ -9,7 +9,7 @@ jobs:
 
     runs-on: window10
 
-    staregy:
+    strategy:
       matrix:
         node-version: [10.x]
 
